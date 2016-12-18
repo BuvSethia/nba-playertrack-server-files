@@ -5,3 +5,12 @@ The REST API and other server functions for NBA PlayerTrack. Other server functi
 The iOS frontend for that consumes this backend can be found here:
 
 https://github.com/BuvSethia/nba-playertrack
+
+## Improvements
+Unit tests
+
+Modularization of functions
+
+Usage of static helper classes (ties into above)
+
+etc...
