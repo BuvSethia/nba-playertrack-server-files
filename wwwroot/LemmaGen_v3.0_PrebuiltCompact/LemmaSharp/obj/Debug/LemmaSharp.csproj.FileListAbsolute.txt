@@ -1,0 +1,6 @@
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharp\bin\Debug\LemmaSharp.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharp\bin\Debug\LemmaSharp.pdb
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharp\bin\Debug\Lzma#.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharp\obj\Debug\LemmaSharp.csprojResolveAssemblyReference.cache
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharp\obj\Debug\LemmaSharp.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharp\obj\Debug\LemmaSharp.pdb

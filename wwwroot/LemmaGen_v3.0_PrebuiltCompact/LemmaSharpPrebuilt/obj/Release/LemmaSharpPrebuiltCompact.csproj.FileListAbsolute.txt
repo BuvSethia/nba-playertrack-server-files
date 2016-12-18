@@ -1,0 +1,9 @@
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Release\LemmaSharpPrebuiltCompact.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Release\LemmaSharpPrebuiltCompact.pdb
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Release\LemmaSharp.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Release\Lzma#.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Release\LemmaSharp.pdb
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Release\LemmaSharpPrebuilt.pdb
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Release\LemmaSharpPrebuiltCompact.csprojResolveAssemblyReference.cache
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Release\LemmaSharpPrebuiltCompact.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Release\LemmaSharpPrebuiltCompact.pdb

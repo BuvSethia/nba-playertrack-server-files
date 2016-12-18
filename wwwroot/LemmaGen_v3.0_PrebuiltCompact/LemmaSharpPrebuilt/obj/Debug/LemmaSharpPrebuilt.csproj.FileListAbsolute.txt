@@ -1,0 +1,24 @@
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharpPrebuilt.pdb
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharp.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\Lzma#.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharp.pdb
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.csprojResolveAssemblyReference.cache
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.dll
+C:\Users\ssethia\Downloads\Assignment3\Assignment3\Projects\WCFService1\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.pdb
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharpPrebuilt.pdb
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharp.dll
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\Lzma#.dll
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharp.pdb
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.csprojResolveAssemblyReference.cache
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.dll
+C:\Users\Sumbhav\Documents\Visual Studio 2013\Projects\NBAServiceTester\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.pdb
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharpPrebuilt.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharpPrebuilt.pdb
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharp.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\Lzma#.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\bin\Debug\LemmaSharp.pdb
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.csprojResolveAssemblyReference.cache
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.dll
+C:\Users\Sumbhav\Documents\Thesis\Services\LemmaGen_v3.0_PrebuiltCompact\LemmaSharpPrebuilt\obj\Debug\LemmaSharpPrebuilt.pdb
